@@ -1,5 +1,5 @@
 /* eslint-disable no-irregular-whitespace */
-const config = {
+const config = {1
   /**
    * Configure the account/resource type for deployment (with 0 or 1)
    * - accountType: controls account type, 0 for global, 1 for china (21Vianet)
