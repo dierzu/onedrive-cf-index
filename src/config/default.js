@@ -9,7 +9,7 @@ const config = {
    * - hostName: sharepoint site hostname (e.g. 'name.sharepoint.com')
    * - sitePath: sharepoint site path (e.g. '/sites/name')
    * !Note: we do not support deploying onedrive & sharepoint at the same time
-   */
+   */11
   type: {
     accountType: 0,
     driveType: 0,
