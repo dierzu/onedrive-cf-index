@@ -16,15 +16,15 @@ const config = {
     hostName: null,
     sitePath: null
   },
-
-  refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
-  client_secret: CLIENT_SECRET,
+  refresh_token: '0.AXAAkksKPLvXTE6qafQbTt2GaSxm8esBt3tIkeW7ldbqpIJwAAw.AgABAAAAAAD--DLA3VO7QrddgJg7WevrAgDs_wQA9P8khdQDBr2VVjpI8r-2kVCPwG6mIijst3aKcIINp1gkVLZbx0iIbw5M5JwwpiMDe7siCbkUkCRRGEAMqJP564ntMXTFVCjlLBHfI8vkfMy-UJYnwhjpp6cX-G4pAlX5GMec2-BZTaKhOBh4CKuT8DYRLuSbr-uJWRmAMv5FVr4kAlzSZe5CqRGHpTjhlEfR8y6sorNDcwzvLtKvj__iWt8LK_0x_YcByCN27F4Nacl224EvsDkPtwMJepd5pz3wnUSoDuVKY5cXV_InfGGMygoj5IvmwSMQYxrWtsR_RJclFqtrdfDdKb9Cf7TqXhQmVuwQ_33u4-smtuMY5PBsCd9bRIzWaey9R3xBYDz9sd0VXhvwLvq4YhV5m66nvEnUrRAqtrz_otjzTrG4tyvG3MhgHxpu8AX3aDaj-qf1oRlCCGM_j885-h7eu6QRqxuGuvkYmgJc-LyB0HkNvc6l83LzjdXTnxtvEWmSplqC-EOW231j7Ke_gTKtbL15KdVOS5ATRuTCgw3B4WY6sZJ95LDGODU3iZCSXbGFFcR7Yiv_qzttRlt1PhYAtLM_drHYBlFIfM_stTci0Vdd0TxOmYLLFS0XNq08-AoAmHh1BxB26EovPrJRtWXNJe7IVAHFW9bPjuG4zqMI1jWNI6hgYOtfU7CNNCxsN2F3wkXkjViezPqARlFLbJYtrAKiqdlVdQIrEuENqAYcpWwy7xYedK3U3GF4jdRBJEpxClpPJMGHbUyMt2dX2xnNQpHqj5e8KfS_98S9MC5FenzDhvp3CR0-upB5A9hdPgaoYsUMLJTrUJLHn9lLzkghu8B9M_wfhA6MHiYRFrUfdRAvk4tPwLaqqWDdh06rMezaTYahIeGetI_PELeRgpONU5jWTjD7qThSJAAZgFJmHp7ZTcS4SKljQ5r-VtBULVOXqfiHUzc',
+  client_id: 'ebf1662c-b701-487b-91e5-bb95d6eaa482',
+  client_secret: 'mm0-So7u_4OOqCF8sv-.qwvmik-KRfdsW-',
+  redirect_uri: 'https://heymind.github.io/tools/microsoft-graph-api-auth',
 
   /**
    * Exactly the same `redirect_uri` in your Azure Application
    */
-  redirect_uri: 'http://localhost',
+
 
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
